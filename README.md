@@ -1,1 +1,1 @@
-# bootcampJS
+# JS Bootcamp project files - completed
